@@ -1,7 +1,9 @@
 # 45-day-SDE-sheet-challenge-Take-u-forward
 
-🚀 My journey of solving the **Take U Forward SDE Sheet** consistently for 45 days starting from **1st June**.
+🚀 My journey of solving the **Take U Forward SDE Sheet** consistently for 45 days starting from **1st June 2026**.
 This repository contains my daily solutions, approaches, and learnings for Data Structures & Algorithms problems.
+
+![SDE Challenge Banner](assets/banner.png)
 
 ## 📌 Challenge Goal
 
